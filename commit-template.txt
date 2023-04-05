@@ -1,0 +1,5 @@
+<Type de modification>(<Scope>): <Description>
+
+<Corps de la description>
+
+<Références (#ID-TICKET)>

@@ -1,6 +1,27 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project creation
+
+### Installer l'outil "create-react-app" en utilisant npm
+
+```
+npm install -g create-react-app
+```
+
+### Créer une nouvelle application React
+
+```
+create-react-app portfolio
+
+```
+
+### Publier sur GitHub via VS COde
+
+F1 - Publish to GitHub
+
+## Deploiement par Docker
+
+Créer un Dockerfile
 
 ## Available Scripts
 
